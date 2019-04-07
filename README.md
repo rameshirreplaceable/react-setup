@@ -1,4 +1,2 @@
 # react-setup
-Setup React 
-
-
+Setup React
