@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-setup/static/css/main.3ee106de.chunk.css",
-  "main.js": "/react-setup/static/js/main.a44362f1.chunk.js",
-  "main.js.map": "/react-setup/static/js/main.a44362f1.chunk.js.map",
+  "main.css": "/react-setup/static/css/main.1472242c.chunk.css",
+  "main.js": "/react-setup/static/js/main.32b1af2e.chunk.js",
+  "main.js.map": "/react-setup/static/js/main.32b1af2e.chunk.js.map",
   "runtime~main.js": "/react-setup/static/js/runtime~main.b2c20b1c.js",
   "runtime~main.js.map": "/react-setup/static/js/runtime~main.b2c20b1c.js.map",
-  "static/js/2.20a438c3.chunk.js": "/react-setup/static/js/2.20a438c3.chunk.js",
-  "static/js/2.20a438c3.chunk.js.map": "/react-setup/static/js/2.20a438c3.chunk.js.map",
+  "static/js/2.f0359089.chunk.js": "/react-setup/static/js/2.f0359089.chunk.js",
+  "static/js/2.f0359089.chunk.js.map": "/react-setup/static/js/2.f0359089.chunk.js.map",
   "index.html": "/react-setup/index.html",
-  "precache-manifest.77aece54100a2853fac08bb7fd8feb61.js": "/react-setup/precache-manifest.77aece54100a2853fac08bb7fd8feb61.js",
+  "precache-manifest.8c45b661d581a58570100a9b91099759.js": "/react-setup/precache-manifest.8c45b661d581a58570100a9b91099759.js",
   "service-worker.js": "/react-setup/service-worker.js",
-  "static/css/main.3ee106de.chunk.css.map": "/react-setup/static/css/main.3ee106de.chunk.css.map"
+  "static/css/main.1472242c.chunk.css.map": "/react-setup/static/css/main.1472242c.chunk.css.map"
 }
